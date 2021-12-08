@@ -32,7 +32,7 @@ def main(args):
         if count:
              print(f'{password} was found {count} times.Try using differnet password ')
         else:
-            print(f' the  password you have entered is good, and  you can proceed with that password \"{password}\" ')    
+            print(f' the  password you have entered is good, and  you can proceed with this password now that is  \"{password}\" ')    
       
 
 
